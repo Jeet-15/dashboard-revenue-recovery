@@ -43,6 +43,3 @@ To build a real-time, interactive dashboard to help Atliq Grands' Revenue Team:
 
 
 
-
-## 📌 Folder Structure
-
